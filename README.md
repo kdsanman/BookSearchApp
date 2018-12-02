@@ -24,6 +24,9 @@ To achieve this, there are four different components in this app:
 ## Usage
 This app is intended to be the base project on top of which new features can be added. It was cloned from [here](https://github.com/codepath/android-booksearch-exercise/).
 
+Here is a walkthrough.
+<img src='walkthrough.gif' title='Video Walkthrough' width='' />
+
 ## Libraries
 
 This app leverages two third-party libraries:
